@@ -1,0 +1,3 @@
+# Don't commit streamlit secrets
+# TODO uncomment line below
+# .streamlit/
